@@ -18,6 +18,6 @@
     "username": "ZODO",
     "password": "ZODO",
     "expiresAt": "2025-11-30",
-    "allowOffline": false
+    "allowOffline": true
   }
 ]
